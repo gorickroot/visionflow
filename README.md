@@ -240,6 +240,8 @@ Building AI agents & automations 🤖 · Founding ZynthoAI
 > *"Every line of code is a step forward."*
 
 [![GitHub](https://img.shields.io/badge/GitHub-gorickroot-7b61ff?style=flat-square&logo=github)](https://github.com/gorickroot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gorick--nath--aigeek-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gorick-nath-aigeek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gorickroot.github.io-2d6a4f?style=flat&logo=google-chrome&logoColor=white)](https://gorickroot.github.io)
 
 ---
 
