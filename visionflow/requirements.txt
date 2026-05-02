@@ -1,0 +1,22 @@
+# VisionFlow — Requirements
+# Install: pip install -r requirements.txt
+
+# Core CV
+opencv-python>=4.9.0
+numpy>=1.26.0
+
+# Detection model
+ultralytics>=8.2.0      # includes YOLOv8 + ByteTrack + ONNX export
+
+# GPU inference (optional — uncomment for CUDA)
+# onnxruntime-gpu>=1.17.0
+onnxruntime>=1.17.0     # CPU fallback
+
+# Deep learning backend (auto-installed by ultralytics)
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Utilities
+Pillow>=10.0.0          # image I/O
+PyYAML>=6.0             # config files
+tqdm>=4.66.0            # progress bars

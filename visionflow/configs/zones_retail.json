@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Restricted Area",
+    "bbox_rel": [0.0, 0.0, 0.35, 1.0],
+    "watch_classes": ["person"],
+    "alert_on_enter": true
+  },
+  {
+    "name": "Checkout Zone",
+    "bbox_rel": [0.65, 0.4, 1.0, 1.0],
+    "watch_classes": ["person"],
+    "alert_on_enter": false
+  }
+]
